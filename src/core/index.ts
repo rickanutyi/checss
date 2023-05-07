@@ -1,0 +1,10 @@
+export const baseData = {
+    CELLS_AMOUNT: 64,
+    FIGURES_AMOUNT: 32,
+    PAWN_AMOUNT: 16,
+    KING_AMOUNT: 2,
+    QUEEN_AMOUNT: 2,
+    ROOK_AMOUNT: 4,
+    KNIGHT_AMOUNT: 4,
+    BISHOP_AMOUNT: 4,
+}
